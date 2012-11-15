@@ -24,7 +24,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/prebuilt/common/app/SetupWizard.apk:system/app/SetupWizard.apk \
     vendor/google/prebuilt/common/app/Talk.apk:system/app/Talk.apk \
     vendor/google/prebuilt/common/app/Talkback.apk:system/app/Talkback.apk \
-    vendor/google/prebuilt/common/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk 
+    vendor/google/prebuilt/common/app/VoiceSearchStub.apk:system/app/VoiceSearchStub.apk \
+    vendor/google/prebuilt/common/app/Microbes.apk:system/app/Microbes.apk \
+    vendor/google/prebuilt/common/app/Thinkfree.apk:system/app/Thinkfree.apk 
     
     
 # etc
